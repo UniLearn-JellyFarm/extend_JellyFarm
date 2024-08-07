@@ -11,6 +11,8 @@ public class GameManager : MonoBehaviour
     public int[] JellyGoldList;
     public int[] NumGoldList;
     public int[] ClickGoldList;
+    public int[] DrinkJelatinList;
+    public int[] ProteinGoldList;
 
     public Vector3[] PointList;
 
