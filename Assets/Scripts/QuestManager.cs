@@ -5,5 +5,5 @@ using UnityEngine.UI;
 
 public class QuestManager : MonoBehaviour
 {
-
+    public bool[] QuestBtn;
 }
