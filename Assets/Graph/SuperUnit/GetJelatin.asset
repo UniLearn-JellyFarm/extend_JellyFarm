@@ -19,6 +19,5 @@ MonoBehaviour:
       Hungry Gauge","comment":null,"color":{"r":0.0,"g":0.0,"b":0.0,"a":1.0},"guid":"2d09889b-5fe6-458f-a0ed-78328bc0d55d","$version":"A","$type":"Unity.VisualScripting.GraphGroup"},{"position":{"xMin":-811.0,"yMin":182.0,"xMax":-229.0,"yMax":534.0},"label":"Calculate
       Jelatin","comment":null,"color":{"r":0.0,"g":0.0,"b":0.0,"a":1.0},"guid":"371c6e15-9c9b-4f03-bdc4-ef47f41f2517","$version":"A","$type":"Unity.VisualScripting.GraphGroup"},{"position":{"xMin":1903.0,"yMin":169.0,"xMax":2701.0,"yMax":566.0},"label":"Save
       Jelatin","comment":null,"color":{"r":0.0,"g":0.0,"b":0.0,"a":1.0},"guid":"cb197d7f-8207-4fec-8929-58a9bae0f8b2","$version":"A","$type":"Unity.VisualScripting.GraphGroup"},{"position":{"xMin":-196.0,"yMin":166.8,"xMax":225.0,"yMax":550.8},"label":"Calcluate
-      By Click Level","comment":null,"color":{"r":0.0,"g":0.0,"b":0.0,"a":1.0},"guid":"0d4c163b-4bde-4c3f-b69f-605f91ec3a50","$version":"A","$type":"Unity.VisualScripting.GraphGroup"},{"position":{"xMin":1320.0,"yMin":739.0,"xMax":2412.0,"yMax":1177.0},"label":"Check
-      Buff Item","comment":null,"color":{"r":0.0,"g":0.0,"b":0.0,"a":1.0},"guid":"24e8ff7e-b67c-444d-a063-93d3220eb2a4","$version":"A","$type":"Unity.VisualScripting.GraphGroup"}],"$version":"A"}}'
+      By Click Level","comment":null,"color":{"r":0.0,"g":0.0,"b":0.0,"a":1.0},"guid":"0d4c163b-4bde-4c3f-b69f-605f91ec3a50","$version":"A","$type":"Unity.VisualScripting.GraphGroup"}],"$version":"A"}}'
     _objectReferences: []
