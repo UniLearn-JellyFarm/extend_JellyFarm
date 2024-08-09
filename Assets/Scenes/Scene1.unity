@@ -1753,7 +1753,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   MiniGameScore: 0
-  scoreText: {fileID: 1933391061}
+  scoreText: {fileID: 0}
 --- !u!4 &611050435
 Transform:
   m_ObjectHideFlags: 0

@@ -15,6 +15,7 @@ public class ScoreManager : MonoBehaviour
         if (instance == null)
         {
             instance = this;
+            DontDestroyOnLoad(gameObject); // 씬이 전환되어도 이 오브젝트가 파괴되지 않도록 설정
         }
         else
         {
@@ -40,5 +41,12 @@ public class ScoreManager : MonoBehaviour
             string score = MiniGameScore.ToString();
             scoreText.text = score;
         }
+    }
+
+    // 점수를 PlayerPrefs에 저장하는 메서드 추가
+    public void SaveScore()
+    {
+        PlayerPrefs.SetInt("MiniGameScore", MiniGameScore);
+        PlayerPrefs.Save();
     }
 }
